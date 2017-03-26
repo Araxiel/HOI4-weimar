@@ -1,0 +1,61 @@
+﻿add_namespace = weimar
+
+# Weimar1
+country_event = {
+	id = weimar.1
+	title = weimar.1.t
+	desc = weimar.1.d
+	picture = GFX_report_event_soviet_tanks_snow
+
+	is_triggered_only = yes
+
+}
+
+country_event = {
+	id = weimar.3
+	title = weimar.1.t
+	desc = weimar.1.d
+	picture = GFX_report_event_soviet_tanks_snow
+
+	is_triggered_only = yes
+
+}
+
+# weimar_debug
+
+add_namespace = weimar_debug
+
+country_event = {
+	id = weimar_debug.1
+
+  hidden = yes
+  is_triggered_only = yes
+
+	trigger = {
+		always = yes
+	}
+
+	option = {
+		name = weimar_debug.1.a
+
+		ROOT = { transfer_state = 546 }
+		ROOT = { transfer_state = 541 }
+	}
+}
+
+country_event = {
+	id = weimar_debug.2
+
+  hidden = yes
+  is_triggered_only = yes
+
+	trigger = {
+		always = yes
+	}
+
+	option = {
+		name = weimar_debug.1.a
+
+		ROOT = { transfer_state = 597 }
+	}
+}

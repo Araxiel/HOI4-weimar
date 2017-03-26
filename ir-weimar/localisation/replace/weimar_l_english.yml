@@ -1,0 +1,30 @@
+﻿l_english:
+
+ GER_democratic:1 "Weimar Republic"
+ GER_democratic_DEF:1 "The Weimar Republic"
+ GER_neutrality:1 "German Empire"
+ GER_neutrality_DEF:1 "Germany"
+
+ GER_GATHERING_STORM_DESC:1 "Eighteen years have passed since the signing of the treaty of Versailles. After the Roaring Twenties passed, the western world plunged into the Great Depression. As a response the right and the left throughout Europe rose with promises of stability and glory. And in the continents very heart, the Weimar Republic is struggling for survival while the entire world is watching.\n\nThe world is growing more hostile by the day, but the military restrictions imposed on Germany by the Versailles Treaty are still in effect. Can Germany rise to the top and defend the values of freedom and liberty, or will it succumb to the promises of power and try to reshape Europe once more?"
+
+ GER_democratic_party:0 "SPD"
+ GER_democratic_party_long:0 "Sozialdemokratische Partei Deutschlands"
+ GER_neutral_party:0 "DVP"
+ GER_neutral_party:0 "Deutsche Volkspartei"
+
+ GER_wartime_industry_national_focus_idea:0 "Wartime Industry"
+ GER_great_depression_1:0 "Great Depression"
+ GER_great_depression_2:0 "Great Depression"
+ GER_motorised_focus:0 "Motorised Army"
+
+GER_break_versailles:0 "Break Versailles"
+GER_demand_colonies:0 "Demand Colonies"
+
+
+
+## Focuses
+
+GER_renegotiate_armament: "Renegotiate Armament"
+GER_mechanised_forces: "Mechanized Forces"
+GER_tank_innovations: "Tank Innovations"
+GER_tank_research_breakthrough: "Tank Research Breakthrough"
